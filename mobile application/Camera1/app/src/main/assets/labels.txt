@@ -1,0 +1,35 @@
+Banana_Cordana
+Banana_healthy
+Banana_pestalotiopsis
+Banana_sigatoka
+Cabbage_Backmoth
+Cabbage_leafminer
+Cabbage_milde
+Coffee_miner
+Coffee_rust
+Corn_Blight
+Corn_Common_Rust
+Corn_Gray_Leaf_Spot
+Corn_Healthy
+Cotton_bacterial_blight
+Cotton_curl_virus
+Cotton_fussarium_wilt
+Cotton_healthy
+NOT_A_CROP
+Rice_Bacterial leaf blight
+Rice_Brown spot
+Rice_healthy
+Rice_Leaf smut
+Rice_Tungro
+Sugarcane_Bacterial Blight
+Sugarcane_Healthy
+Sugarcane_Red Rot
+Tomato_Bacterial_spot
+Tomato_Early_blight
+Tomato_healthy
+Tomato_Late_blight
+Tomato_Leaf_Mold
+Tomato_Septoria_leaf_spot
+Tomato__Target_Spot
+Tomato__Tomato_mosaic_virus
+Tomato__Tomato_YellowLeaf__Curl_Virus
