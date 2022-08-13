@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Ashley/AndroidStudioProjects/Camera1/app/src/main/res/drawable/custom_button.xml" value="0.1" />
+        <entry key="..\:/Users/Ashley/AndroidStudioProjects/Camera1/app/src/main/res/drawable/ic_aniss.xml" value="0.118" />
+        <entry key="..\:/Users/Ashley/AndroidStudioProjects/Camera1/app/src/main/res/drawable/ic_splashscreenani.xml" value="0.264" />
+        <entry key="..\:/Users/Ashley/AndroidStudioProjects/Camera1/app/src/main/res/drawable/ic_splashscreenani__1_.xml" value="0.1" />
+        <entry key="..\:/Users/Ashley/AndroidStudioProjects/Camera1/app/src/main/res/drawable/ic_splashscreenani__3_.xml" value="0.279" />
+        <entry key="..\:/Users/Ashley/AndroidStudioProjects/Camera1/app/src/main/res/layout/activity_main.xml" value="0.6" />
+        <entry key="..\:/Users/Ashley/AndroidStudioProjects/Camera1/app/src/main/res/layout/activity_splash_screen.xml" value="0.264" />
+        <entry key="..\:/Users/alber/Desktop/JAMES/github/TEST/GROUP3-RESEARCH/Camera1/app/src/main/res/drawable/back_arrow.xml" value="0.3455" />
+        <entry key="..\:/Users/alber/Desktop/JAMES/github/TEST/GROUP3-RESEARCH/Camera1/app/src/main/res/drawable/camera_logo.xml" value="0.3455" />
+        <entry key="..\:/Users/alber/Desktop/JAMES/github/TEST/GROUP3-RESEARCH/Camera1/app/src/main/res/drawable/custom_button.xml" value="0.3455" />
+        <entry key="..\:/Users/alber/Desktop/JAMES/github/TEST/GROUP3-RESEARCH/Camera1/app/src/main/res/drawable/custom_card.xml" value="0.1" />
+        <entry key="..\:/Users/alber/Desktop/JAMES/github/TEST/GROUP3-RESEARCH/Camera1/app/src/main/res/drawable/gallery_logo.xml" value="0.3455" />
+        <entry key="..\:/Users/alber/Desktop/JAMES/github/TEST/GROUP3-RESEARCH/Camera1/app/src/main/res/drawable/ic_baseline_keyboard_backspace_24.xml" value="0.296" />
+        <entry key="..\:/Users/alber/Desktop/JAMES/github/TEST/GROUP3-RESEARCH/Camera1/app/src/main/res/drawable/rect_button.xml" value="0.3455" />
+        <entry key="..\:/Users/alber/Desktop/JAMES/github/TEST/GROUP3-RESEARCH/Camera1/app/src/main/res/layout/activity_main.xml" value="0.26079521162890124" />
+        <entry key="..\:/Users/alber/Desktop/JAMES/github/TEST/GROUP3-RESEARCH/Camera1/app/src/main/res/layout/activity_selection_screen.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
